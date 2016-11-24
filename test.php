@@ -1,6 +1,6 @@
 <?php 
 
-
+echo "step 1 :changes in test_branch and commit it on git";
 
 $strArray = array();
 $existingString = 'li';
