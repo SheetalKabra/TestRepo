@@ -1,5 +1,6 @@
 <?php 
-
+//changes in file to commit changes in git
+echo "changes in git";
 
 
 $strArray = array();
